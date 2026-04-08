@@ -12,16 +12,19 @@ This project performs Exploratory Data Analysis (EDA) on a movie dataset to iden
 - Seaborn
 
 ## Key Analysis
-- Genre distribution
-- Rating categorization
+- Genre distribution analysis
+- Rating categorization (popular, average, below average, not popular)
 - Year-wise movie release trends
 - Most and least popular movies
 
 ## Key Insights
-- Drama and Comedy are dominant genres
+- Drama and Comedy are the most dominant genres
 - Most movies fall under average rating category
 - Movie releases increased significantly after 2000
 - Only a few movies achieve very high popularity
 
 ## Conclusion
-This project highlights patterns in movie trends and audience preferences using data analysis techniques.
+This analysis highlights trends in content production and audience preferences, showing growth in the film industry and variation in movie performance.
+
+## Project Link
+[Click here to view the notebook](./Netflix Data Analysis.ipynb)
