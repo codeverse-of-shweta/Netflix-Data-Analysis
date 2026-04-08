@@ -23,6 +23,11 @@ This project performs Exploratory Data Analysis (EDA) on a movie dataset to iden
 - Movie releases increased significantly after 2000
 - Only a few movies achieve very high popularity
 
+## Sample Visualizations
+
+![Genre Distribution](image1.png)
+![Year Trend](image2.png)
+
 ## Conclusion
 This analysis highlights trends in content production and audience preferences, showing growth in the film industry and variation in movie performance.
 
