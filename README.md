@@ -26,5 +26,3 @@ This project performs Exploratory Data Analysis (EDA) on a movie dataset to iden
 ## Conclusion
 This analysis highlights trends in content production and audience preferences, showing growth in the film industry and variation in movie performance.
 
-## Project Link
-[Click here to view the notebook](./Netflix Data Analysis.ipynb)
